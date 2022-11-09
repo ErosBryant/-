@@ -52,7 +52,10 @@ a * 3 # array([ 3,  9, 15])
 - len(arr)
 - max(arr)
 - min(arr)
-- 
+
+- abs(num)  //  절대 값
+
+
 - from operator import mul
 - from functools import reduce
     - reduce(mul,arr)
@@ -61,3 +64,29 @@ a * 3 # array([ 3,  9, 15])
 - len(str(num) : 자리수
 - list(map(int, str(number))) : 자리수 
 
+---
+
+### enumerate() 함수
+
+
+                    >>> for entry in enumerate(['A', 'B', 'C']):
+                    ...     print(entry)
+                    ...
+                    (0, 'A')
+                    (1, 'B')
+                    (2, 'C')
+
+                  >>> for i, letter in enumerate(['A', 'B', 'C']):
+                    ...     print(i, letter)
+                    ...
+                    0 A
+                    1 B
+                    2 C
+                   
+                   >>> for i, letter in enumerate(['A', 'B', 'C'], start=1):
+                    ...     print(i, letter)
+                    ...
+                    1 A
+                    2 B
+                    3 C
+                  

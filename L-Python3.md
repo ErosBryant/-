@@ -13,6 +13,23 @@ class Solution:
 - -> float:
   - 해당 함수의 return type을 명시   
   
+---
+## for  & if 
+```python3
+
+a=[]
+for i in range(0,5):
+    a.append(i)
+
+a= [ i for i in range(0,5)]
+
+-------
+
+True if len(a)< 1 else False
+
+```
+
+
 
 ---
 ##  `list와 numpy array 차이`
@@ -65,7 +82,16 @@ a * 3 # array([ 3,  9, 15])
 - list(map(int, str(number))) : 자리수 
 
 ---
+## set
+- 중복을 허용하지 않는다.
+- 순서가 없다(Unordered).
 
+----
+## String
+- sorted(string)  : 정렬 
+    - 이걸로 정렬은 가능하나 비교는 안 된다.
+
+---
 ### enumerate() 함수
 
 

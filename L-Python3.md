@@ -115,4 +115,12 @@ a * 3 # array([ 3,  9, 15])
                     1 A
                     2 B
                     3 C
+                    
+----
+
+### append(x)와 extend(iterable)가 있고 두 함수의 차이점
+
+![](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MTlfNTEg/MDAxNTU4MjI1MjMzNzQ1.vrwM5Kdp03SAYSqqUHk1GHYreCf93CR4QgPXcAFlJ-gg.XL21JskF0EemeEjXwH4eMjX6r-pk9SQcCgInuygX_WMg.PNG.wideeyed/61.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MTlfMTI0/MDAxNTU4MjI1MjMzNzQ2.Tz9nIxxXFQZtID2B_rhyFCCzDxvwPT5qKcbjWgbZ7Bsg.uX0GSdyXHHqBf-xziMDrrh5WJvKNfNAmCMkF0nTZFlEg.PNG.wideeyed/63.png?type=w800)
+
                   

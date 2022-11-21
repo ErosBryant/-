@@ -117,7 +117,15 @@ a * 3 # array([ 3,  9, 15])
                     3 C
                     
 ----
+##  dictionary
+dict()
 
+index 와  val 이 있으며 
+
+2중 list와 비슷 
+
+
+----
 ### append(x)와 extend(iterable)가 있고 두 함수의 차이점
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MTlfNTEg/MDAxNTU4MjI1MjMzNzQ1.vrwM5Kdp03SAYSqqUHk1GHYreCf93CR4QgPXcAFlJ-gg.XL21JskF0EemeEjXwH4eMjX6r-pk9SQcCgInuygX_WMg.PNG.wideeyed/61.png?type=w800)
